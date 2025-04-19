@@ -1,7 +1,7 @@
 # Stock_analysis
 ## Project Overview
-This project presents a Data-Driven Stock Market Analysis using Python, Streamlit, and Power BI.
-It provides interactive dashboards and data visualization for analyzing 50 stocks over one year.
+This project presents a Data-Driven Stock Market Analysis using Python, Streamlit, and Power BI./n
+It provides interactive dashboards and data visualization for analyzing 50 stocks over one year./n
 explore:
 🏆 Top 5 Yearly Gainers and Losers
 🌍 Market Overview (Green vs Red stocks, Avg Closing Price)
