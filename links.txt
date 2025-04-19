@@ -1,0 +1,7 @@
+## 🚀 Deployment Links
+
+- 🌐 **Streamlit App Live Link**:  
+  [👉 Click here to view Streamlit Dashboard](https://your-streamlit-cloud-link.streamlit.app)
+
+- 📊 **Power BI Dashboard Link**:  
+  [👉 Click here to view Power BI Report](https://your-powerbi-dashboard-link.com)
